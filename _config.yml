@@ -1,0 +1,28 @@
+name: The Truth About Diabetes
+favicon: null
+layout_spectrum: 0.23824937990866601
+typography_spectrum: 0.4783086543902755
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8506323453038931
+  lightness: 0.02137895254418254
+  saturation: 0.6715005021542311
+  rhythmicContrast: 0.03423350234515965
+purpose: []
