@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[The Truth About Diabetes]]></title>
         <description><![CDATA[The Truth About Diabetes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-truth-about-diabetes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 21:01:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 21:13:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-truth-about-diabetes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/the-truth-about-diabetes/a25f6cd3-26dc-47c0-88f7-93d2854e59d0/index.html</link>
+            <guid isPermaLink="false">a25f6cd3-26dc-47c0-88f7-93d2854e59d0</guid>
+            <pubDate>Fri, 15 Apr 2016 21:12:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This Is A Test Post]]></title>
             <description><![CDATA[<article><h1>This Is A Test Post</h1><p>Fed Up Is A Great Documentary</p></article>]]></description>
-            <link>undefinedthis-is-a-test-post/index.html</link>
+            <link>https://thegrid.ai/the-truth-about-diabetes/this-is-a-test-post/index.html</link>
             <guid isPermaLink="false">be28bda8-3903-4f1f-9f7d-5e6ddc5301ad</guid>
             <pubDate>Fri, 15 Apr 2016 21:01:16 GMT</pubDate>
         </item>
